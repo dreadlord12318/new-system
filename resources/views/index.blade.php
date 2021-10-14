@@ -30,11 +30,6 @@
               </div>
             </div>
             <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
-
-              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
-
-              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
 
               <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
 
@@ -87,14 +82,14 @@
             <span class=" xl:inline text-chelsea-500">Wealth Advisory for </span>
             <span class=" text-chelsea-500 xl:inline">New Realities</span>
           </h1>
-          <p class="mt-3 text-base text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+          <p class="mt-3 text-copy text-base text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
           Westcott Dyson Pte Ltd is a consultancy practice specializing in UK inheritance tax and estate planning for British citizens living in Singapore.  
           <br>
           We also specialize in retirement planning for British citizens and are qualified to a UK pension specialist level to provide advice on their existing UK retirement. 
           </p>
           <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
             <div class="rounded-md shadow">
-              <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10">
+              <a href="/contact" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500 md:py-4 md:text-lg md:px-10">
               Learn More
               </a>
             </div>
@@ -223,7 +218,7 @@ Schedule a consultation today.</span>
     </h2>
     <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
       <div class="inline-flex rounded-md shadow">
-        <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-indigo-700">
+        <a href="/contact" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500">
       Start Now
         </a>
       </div>
@@ -258,31 +253,11 @@ that because they have lived outside the UK for many years, they are free of UK 
 
 This is usually incorrect, and proper planning needs to be considered. UK Domicile law means that while a client may not be subjected to UK income tax while living abroad, they are still subjected to inheritance tax. 
             </p>
-            <div class="mt-6">
-              <a href="#" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-chelsea-500 hover:bg-chelsea-600">
-                Get started
-              </a>
-            </div>
+            
           </div>
         </div>
         <div class="mt-8 border-t border-gray-200 pt-6">
-          <blockquote>
-            <div>
-              <p class="text-base text-gray-500">
-                &ldquo;Cras velit quis eros eget rhoncus lacus ultrices sed diam. Sit orci risus aenean curabitur donec aliquet. Mi venenatis in euismod ut.&rdquo;
-              </p>
-            </div>
-            <footer class="mt-3">
-              <div class="flex items-center space-x-3">
-                <div class="flex-shrink-0">
-                  <img class="h-6 w-6 rounded-full" src="https://images.unsplash.com/photo-1509783236416-c9ad59bae472?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80" alt="">
-                </div>
-                <div class="text-base font-medium text-gray-700">
-                  Marcia Hill, Digital Marketing Manager
-                </div>
-              </div>
-            </footer>
-          </blockquote>
+          
         </div>
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0">
@@ -315,11 +290,7 @@ However, these advisers are often not suitably qualified and experienced to give
  The clients have not been given a balanced view of the pros and cons, and so they have often transferred their pension abroad without fully understanding what valuable benefits and protection they have given up. 
 
             </p>
-            <div class="mt-6">
-              <a href="#" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-chelsea-500 hover:bg-chelsea-500">
-                Get started
-              </a>
-            </div>
+           
           </div>
         </div>
       </div>

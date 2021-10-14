@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        cursive: ['Diamant']
+        cursive: ['Diamant'],
+        copy: ['Valkyrie T3'],
       },
       fontSize: {
         'xs': '.75rem',
@@ -72,5 +73,6 @@ module.exports = {
   plugins: [
     require('@tailwindcss/ui'),
     require('@tailwindcss/forms'),
+    require('@tailwindcss/typography'),
   ]
 }

@@ -20,6 +20,14 @@ Route::get('/', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/privacy', function () {
+    return view('privacy');
+});
+
+Route::get('/terms', function () {
+    return view('terms');
+});
 Auth::routes();
 
 Route::get('/home', [\App\Http\Controllers\HomeController::class, 'index'])->name('home');

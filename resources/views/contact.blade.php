@@ -22,12 +22,6 @@
           </div>
         </div>
         <div class="hidden space-x-10 lg:flex lg:ml-10">
-        <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
-
-              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
-
-              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
-
               <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
         </div>
         <div class="hidden lg:flex lg:items-center lg:space-x-6">
@@ -64,11 +58,7 @@
         </div>
         <div class="pt-5 pb-6">
           <div class="px-2 space-y-1">
-          <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
-
-<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
-
-<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
+          
 
 <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
           </div>
