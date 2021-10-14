@@ -36,7 +36,7 @@
 
               <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
 
-              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
+              <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
 
             </div>
           </nav>
