@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        cursive: ['Diamant']
+      },
       fontSize: {
         'xs': '.75rem',
         'sm': '.875rem',
