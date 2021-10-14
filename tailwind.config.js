@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        cursive: ['Diamant'],
-        copy: ['Valkyrie T3'],
+        'cursive': ['Diamant'],
+        'copy': ['Valkyrie T3'],
       },
       fontSize: {
         'xs': '.75rem',

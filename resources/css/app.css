@@ -1,8 +1,19 @@
+
+
 @import "tailwindcss/base";
 
 @import "tailwindcss/components";
 
 
 @import "tailwindcss/utilities";
+
+
+@layer base {
+    @font-face {
+        font-family: "Valkyrie T3";
+        font-weight: normal;
+        src: url('/fonts/valkyrie_t3_regular.woff') format('woff');
+    }
+}
 
 

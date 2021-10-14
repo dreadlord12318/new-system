@@ -19,11 +19,13 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
               </svg>
             </button>
+            
           </div>
-        </div>
-        <div class="hidden space-x-10 lg:flex lg:ml-10">
+          <div class="hidden space-x-10 lg:flex lg:ml-10">
               <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
         </div>
+        </div>
+        
         <div class="hidden lg:flex lg:items-center lg:space-x-6">
          
         </div>
@@ -70,12 +72,7 @@
 
   <main>
     <!-- Header -->
-    <div class="py-24 bg-gray-50 sm:py-32">
-      <div class="max-w-md mx-auto pl-4 pr-8 sm:max-w-lg sm:px-6 lg:max-w-7xl lg:px-8">
-        <h1 class="text-4xl leading-10 font-extrabold tracking-tight text-gray-900 text-center sm:text-5xl sm:leading-none lg:text-6xl">Get in touch</h1>
-        <p class="mt-6 max-w-3xl mx-auto text-xl leading-normal text-gray-500 text-center">Convallis feugiat et aliquet pellentesque dictum nisi, velit. Egestas fermentum adipiscing risus quam ac consectetur mattis turpis tristique.</p>
-      </div>
-    </div>
+  
 
     <!-- Contact Section -->
     <div class="relative bg-white">

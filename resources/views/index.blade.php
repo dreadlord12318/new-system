@@ -64,11 +64,7 @@
               </div>
             </div>
             <div class="px-2 pt-2 pb-3 space-y-1">
-            <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
-
-<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
-
-<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
+            
 
 <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
             </div>
@@ -82,7 +78,7 @@
             <span class=" xl:inline text-chelsea-500">Wealth Advisory for </span>
             <span class=" text-chelsea-500 xl:inline">New Realities</span>
           </h1>
-          <p class="mt-3 text-copy text-base text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+          <p class="mt-3 font-copy text-base  text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
           Westcott Dyson Pte Ltd is a consultancy practice specializing in UK inheritance tax and estate planning for British citizens living in Singapore.  
           <br>
           We also specialize in retirement planning for British citizens and are qualified to a UK pension specialist level to provide advice on their existing UK retirement. 
@@ -129,7 +125,7 @@
       <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
       It’s a New Era for Wealth Management 
       </p>
-      <p class="mt-4 max-w-2xl text-xl text-deep-700 lg:mx-auto">
+      <p class="mt-4 font-copy text-sm max-w-2xl text-xl text-deep-700 lg:mx-auto">
       Established by a British citizen, Westcott Dyson distills three decades of UK estate planning and retirement planning. 
       Qualified in both estate and inheritance tax planning, 
       we advise clients on the complexities specific to the British expatriate living abroad or expecting 
@@ -142,13 +138,13 @@
           <dt>
             <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-chelsea-500 text-white">
               <!-- Heroicon name: outline/globe-alt -->
-              <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+</svg>
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Wills</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          <dd class="mt-2 ml-16 text-sm font-copy text-xl text-deep-700">
           No Will or defective Will. Clients do not have a will, or the Will is not up to date. 
           A mystery shopping survey conducted by the Solicitor Regulation Authority in the UK highlighted 
           that 1 in 4 Wills written by a solicitor was invalid, inadequate or didn't reflect the customer's wishes.
@@ -159,13 +155,13 @@
           <dt>
             <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-chelsea-500 text-white">
               <!-- Heroicon name: outline/scale -->
-              <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 9a2 2 0 10-4 0v5a2 2 0 01-2 2h6m-6-4h4m8 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+</svg>
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Assets</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          <dd class="mt-2 ml-16 text-base text-sm font-copy text-xl text-deep-700">
           Assets to be held correctly or not appropriately structured to maximum estate planning opportunities or tax efficiency. 
         Some held assets can be inheritance tax-free, but clients are often not aware of these types of assets.
           </dd>
@@ -175,13 +171,13 @@
           <dt>
             <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-chelsea-500 text-white">
               <!-- Heroicon name: outline/lightning-bolt -->
-              <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v13m0-13V6a2 2 0 112 2h-2zm0 0V5.5A2.5 2.5 0 109.5 8H12zm-7 4h14M5 12a2 2 0 110-4h14a2 2 0 110 4M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7" />
+</svg>
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Trusts</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          <dd class="mt-2 ml-16 text-base text-sm font-copy text-xl text-deep-700">
           Whether the trust is used as part of the estate planning,
         it is common to find that the trust does not fit the purpose or is incorrect.
           </dd>
@@ -191,13 +187,13 @@
           <dt>
             <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-chelsea-500 text-white">
               <!-- Heroicon name: outline/annotation -->
-              <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+</svg>
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Life Insurance</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          <dd class="mt-2 ml-16 text-base text-sm font-copy text-xl text-deep-700">
           Life insurance is often used to pay UK inheritance tax bills as well as family protection.  However, life insurance is often taken out, 
           and so there is no use of an appropriate trust.  
           Therefore, depending on how the life insurance is written (ownership), any payment is added to the individual's estate and taxed.
@@ -237,16 +233,16 @@ Schedule a consultation today.</span>
           <div>
             <span class="h-12 w-12 rounded-md flex items-center justify-center bg-chelsea-500">
               <!-- Heroicon name: outline/inbox -->
-              <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4" />
-              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5" />
+</svg>
             </span>
           </div>
           <div class="mt-6">
             <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
             The Right Advice 
             </h2>
-            <p class="mt-4 text-lg text-deep-700">
+            <p class="mt-4 font-copy text-sm text-deep-700">
             Getting your planning wrong can be both costly and disastrous for you and your family.  
 There are often many misconceptions that British Expats have with the very complex rules around the estate and inheritance tax. Oftentimes, they believe 
 that because they have lived outside the UK for many years, they are free of UK inheritance tax. 
@@ -283,7 +279,7 @@ This is usually incorrect, and proper planning needs to be considered. UK Domici
             <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
             Retirement Planning
             </h2>
-            <p class="mt-4 text-lg text-deep-700">
+            <p class="mt-4 text-sm font-copy text-deep-700">
             Clients have been advised to move their UK pensions abroad. While there could be some benefits of moving a UK pension overseas, this is usually not always the best for the client.  
 We have found clients that have been advised by international advisers to move their UK pension abroad.  
 However, these advisers are often not suitably qualified and experienced to give this advice, which has led to individuals being misadvised.
