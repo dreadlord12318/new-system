@@ -14,7 +14,7 @@
           <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
             <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div class="flex items-center justify-between w-full md:w-auto">
-                <a href="#">
+                <a href="/">
                   <span class="sr-only">Workflow</span>
                   <img class="h-8 w-auto sm:h-10" src="images/WCTT-Site-Image-NavLogo.png">
                 </a>
@@ -69,13 +69,13 @@
               </div>
             </div>
             <div class="px-2 pt-2 pb-3 space-y-1">
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-900 hover:bg-gray-50">About</a>
+            <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
 
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-900 hover:bg-gray-50">Individuals</a>
+<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
 
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-900 hover:bg-gray-50">Firms</a>
+<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
 
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-900 hover:bg-gray-50">Contact Us</a>
+<a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
             </div>
           </div>
         </div>

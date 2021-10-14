@@ -7,7 +7,7 @@
     <div class="bg-gray-50">
       <nav class="relative max-w-7xl mx-auto flex items-center justify-between pt-8 px-6 xl:px-8" aria-label="Global">
         <div class="flex items-center justify-between w-full lg:w-auto">
-          <a href="#">
+          <a href="/">
             <span class="sr-only">Workflow</span>
             <img class="h-8 w-auto sm:h-10" src="/images/WCTT-Site-Image-NavLogo.png" alt="">
           </a>
@@ -22,13 +22,13 @@
           </div>
         </div>
         <div class="hidden space-x-10 lg:flex lg:ml-10">
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-600">Work</a>
+        <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
 
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-600">Services</a>
+              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
 
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-600">About</a>
+              <a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
 
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-600">Blog</a>
+              <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
         </div>
         <div class="hidden lg:flex lg:items-center lg:space-x-6">
          
@@ -64,17 +64,15 @@
         </div>
         <div class="pt-5 pb-6">
           <div class="px-2 space-y-1">
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Work</a>
+          <a href="#" class="font-medium text-gray-900 hover:text-gray-900">About</a>
 
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Services</a>
+<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Individuals</a>
 
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">About</a>
+<a href="#" class="font-medium text-gray-900 hover:text-gray-900">Firms</a>
 
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:bg-gray-50">Blog</a>
+<a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
           </div>
-          <div class="mt-6 px-5">
-            <a href="#" class="block text-center w-full py-2 px-4 border border-transparent rounded-md shadow bg-grape-500 text-white font-medium hover:bg-grape-600">Contact</a>
-          </div>
+         
         </div>
       </div>
     </div>
