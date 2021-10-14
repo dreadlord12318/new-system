@@ -23,6 +23,9 @@ module.exports = {
         '7xl': '5rem',
       },
       colors:{
+        westcott: {
+
+        },
         chelsea: {
           DEFAULT: '#8AAA4A',
           '50': '#EFF4E6',

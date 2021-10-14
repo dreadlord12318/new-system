@@ -84,16 +84,18 @@
       <main class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
         <div class="sm:text-center lg:text-left">
           <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-            <span class=" xl:inline text-chelsea-500">Wealth Advisories for </span>
+            <span class=" xl:inline text-chelsea-500">Wealth Advisory for </span>
             <span class=" text-chelsea-500 xl:inline">New Realities</span>
           </h1>
-          <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-            Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
+          <p class="mt-3 text-base text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+          Westcott Dyson Pte Ltd is a consultancy practice specializing in UK inheritance tax and estate planning for British citizens living in Singapore.  
+          <br>
+          We also specialize in retirement planning for British citizens and are qualified to a UK pension specialist level to provide advice on their existing UK retirement. 
           </p>
           <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
             <div class="rounded-md shadow">
               <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10">
-                Get started
+              Learn More
               </a>
             </div>
             <!-- <div class="mt-3 sm:mt-0 sm:ml-3">
@@ -116,9 +118,9 @@
 <!-- 2nd Section -->
 
 <div class="bg-chelsea-500">
-  <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-    <div class="text-center">
-      <h1 class = "text-white font-cursive text-7xl">WESCOTT DYSON</h1>
+  <div class="max-w-7xl mx-auto pt-8 pb-4 px-4 sm:px-6 lg:px-8">
+    <div class="flex justfiy-around justify-center">
+      <img class = "w-2/5" src = 'images/WCTT - ID - LogoPP - ColorStack - Green.svg'/>
     </div>
   </div>
 </div>
@@ -128,13 +130,15 @@
 <div class="py-12 bg-white">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="lg:text-center">
-      <h2 class="text-base text-deep-500 font-semibold tracking-wide uppercase">Wealth Advisory</h2>
+      <h2 class="text-base text-deep-500 font-semibold tracking-wide uppercase">OUR EXPERTISE</h2>
       <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
       It’s a New Era for Wealth Management 
       </p>
-      <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-      Some promo copy goes here and you’re gonna like it. oh my yes, 
-       You’ll like it better than ice cream or suny days. More than your favorite song and more than momma!       </p>
+      <p class="mt-4 max-w-2xl text-xl text-deep-700 lg:mx-auto">
+      Established by a British citizen, Westcott Dyson distills three decades of UK estate planning and retirement planning. 
+      Qualified in both estate and inheritance tax planning, 
+      we advise clients on the complexities specific to the British expatriate living abroad or expecting 
+      to return to the UK in the future.    </p>
     </div>
 
     <div class="mt-10">
@@ -147,10 +151,12 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
               </svg>
             </div>
-            <p class="ml-16 text-lg leading-6 font-medium text-deep-500">Ridiculously Overqualified</p>
+            <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Wills</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          No Will or defective Will. Clients do not have a will, or the Will is not up to date. 
+          A mystery shopping survey conducted by the Solicitor Regulation Authority in the UK highlighted 
+          that 1 in 4 Wills written by a solicitor was invalid, inadequate or didn't reflect the customer's wishes.
           </dd>
         </div>
 
@@ -162,10 +168,11 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" />
               </svg>
             </div>
-            <p class="ml-16 text-lg leading-6 font-medium text-deep-500">A Global Perspective</p>
+            <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Assets</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          Assets to be held correctly or not appropriately structured to maximum estate planning opportunities or tax efficiency. 
+        Some held assets can be inheritance tax-free, but clients are often not aware of these types of assets.
           </dd>
         </div>
 
@@ -177,10 +184,11 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
             </div>
-            <p class="ml-16 text-lg leading-6 font-medium text-deep-500">Trusted by More People Than You Can Count </p>
+            <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Trusts</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          Whether the trust is used as part of the estate planning,
+        it is common to find that the trust does not fit the purpose or is incorrect.
           </dd>
         </div>
 
@@ -192,10 +200,12 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
               </svg>
             </div>
-            <p class="ml-16 text-lg leading-6 font-medium text-deep-500">Always Here: 15 years and Counting</p>
+            <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Life Insurance</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+          <dd class="mt-2 ml-16 text-base text-xl text-deep-700">
+          Life insurance is often used to pay UK inheritance tax bills as well as family protection.  However, life insurance is often taken out, 
+          and so there is no use of an appropriate trust.  
+          Therefore, depending on how the life insurance is written (ownership), any payment is added to the individual's estate and taxed.
           </dd>
         </div>
       </dl>
@@ -213,8 +223,8 @@ Schedule a consultation today.</span>
     </h2>
     <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
       <div class="inline-flex rounded-md shadow">
-        <a href="#" class="inline-flex items-center justify-center px-7 py-5 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-indigo-700">
-          Let's Do It
+        <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-indigo-700">
+      Start Now
         </a>
       </div>
     </div>
@@ -238,11 +248,15 @@ Schedule a consultation today.</span>
             </span>
           </div>
           <div class="mt-6">
-            <h2 class="text-3xl font-extrabold tracking-tight text-gray-900">
-              Stay on top of customer support
+            <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
+            The Right Advice 
             </h2>
-            <p class="mt-4 text-lg text-gray-500">
-              Semper curabitur ullamcorper posuere nunc sed. Ornare iaculis bibendum malesuada faucibus lacinia porttitor. Pulvinar laoreet sagittis viverra duis. In venenatis sem arcu pretium pharetra at. Lectus viverra dui tellus ornare pharetra.
+            <p class="mt-4 text-lg text-deep-700">
+            Getting your planning wrong can be both costly and disastrous for you and your family.  
+There are often many misconceptions that British Expats have with the very complex rules around the estate and inheritance tax. Oftentimes, they believe 
+that because they have lived outside the UK for many years, they are free of UK inheritance tax. 
+
+This is usually incorrect, and proper planning needs to be considered. UK Domicile law means that while a client may not be subjected to UK income tax while living abroad, they are still subjected to inheritance tax. 
             </p>
             <div class="mt-6">
               <a href="#" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-chelsea-500 hover:bg-chelsea-600">
@@ -283,7 +297,7 @@ Schedule a consultation today.</span>
       <div class="px-4 max-w-xl mx-auto sm:px-6 lg:py-32 lg:max-w-none lg:mx-0 lg:px-0 lg:col-start-2">
         <div>
           <div>
-            <span class="h-12 w-12 rounded-md flex items-center justify-center bg-indigo-600">
+            <span class="h-12 w-12 rounded-md flex items-center justify-center bg-chelsea-500">
               <!-- Heroicon name: outline/sparkles -->
               <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
@@ -291,14 +305,18 @@ Schedule a consultation today.</span>
             </span>
           </div>
           <div class="mt-6">
-            <h2 class="text-3xl font-extrabold tracking-tight text-gray-900">
-              Better understand your customers
+            <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
+            Retirement Planning
             </h2>
-            <p class="mt-4 text-lg text-gray-500">
-              Semper curabitur ullamcorper posuere nunc sed. Ornare iaculis bibendum malesuada faucibus lacinia porttitor. Pulvinar laoreet sagittis viverra duis. In venenatis sem arcu pretium pharetra at. Lectus viverra dui tellus ornare pharetra.
+            <p class="mt-4 text-lg text-deep-700">
+            Clients have been advised to move their UK pensions abroad. While there could be some benefits of moving a UK pension overseas, this is usually not always the best for the client.  
+We have found clients that have been advised by international advisers to move their UK pension abroad.  
+However, these advisers are often not suitably qualified and experienced to give this advice, which has led to individuals being misadvised.
+ The clients have not been given a balanced view of the pros and cons, and so they have often transferred their pension abroad without fully understanding what valuable benefits and protection they have given up. 
+
             </p>
             <div class="mt-6">
-              <a href="#" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700">
+              <a href="#" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-chelsea-500 hover:bg-chelsea-500">
                 Get started
               </a>
             </div>
