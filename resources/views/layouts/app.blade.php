@@ -81,12 +81,14 @@
 
 </footer>
     </div>
-
+<!-- 
     <script>
+				const btn = document.querySelector("button.mobile-menu-btn");
+				const menu = document.querySelector(".mobile-menu");
 
-function click(){
-console.log("working");
-}
-    </script>
+				btn.addEventListener("click", () => {
+					menu.classList.toggle("hidden");
+				});
+			</script> -->
 </body>
 </html>

@@ -78,7 +78,7 @@
             <span class=" xl:inline text-chelsea-500">Wealth Advisory for </span>
             <span class=" text-chelsea-500 xl:inline">New Realities</span>
           </h1>
-          <p class="mt-3 font-copy text-base  text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+          <p class="mt-3 leading-relaxed  font-copy text-base  text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
           Westcott Dyson Pte Ltd is a consultancy practice specializing in UK inheritance tax and estate planning for British citizens living in Singapore.  
           <br>
           We also specialize in retirement planning for British citizens and are qualified to a UK pension specialist level to provide advice on their existing UK retirement. 
@@ -125,7 +125,7 @@
       <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
       It’s a New Era for Wealth Management 
       </p>
-      <p class="mt-4 font-copy text-sm max-w-2xl text-xl text-deep-700 lg:mx-auto">
+      <p class="mt-4 leading-relaxed font-copy text-sm max-w-2xl text-xl text-deep-700 lg:mx-auto">
       Established by a British citizen, Westcott Dyson distills three decades of UK estate planning and retirement planning. 
       Qualified in both estate and inheritance tax planning, 
       we advise clients on the complexities specific to the British expatriate living abroad or expecting 
@@ -144,7 +144,7 @@
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Wills</p>
           </dt>
-          <dd class="mt-2 ml-16 text-sm font-copy text-xl text-deep-700">
+          <dd class="mt-2 leading-relaxed ml-16 text-sm font-copy text-xl text-deep-700">
           No Will or defective Will. Clients do not have a will, or the Will is not up to date. 
           A mystery shopping survey conducted by the Solicitor Regulation Authority in the UK highlighted 
           that 1 in 4 Wills written by a solicitor was invalid, inadequate or didn't reflect the customer's wishes.
@@ -161,7 +161,7 @@
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Assets</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-sm font-copy text-xl text-deep-700">
+          <dd class="mt-2 ml-16 leading-relaxed text-base text-sm font-copy text-xl text-deep-700">
           Assets to be held correctly or not appropriately structured to maximum estate planning opportunities or tax efficiency. 
         Some held assets can be inheritance tax-free, but clients are often not aware of these types of assets.
           </dd>
@@ -177,7 +177,7 @@
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Trusts</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-sm font-copy text-xl text-deep-700">
+          <dd class="mt-2 ml-16 leading-relaxed text-base text-sm font-copy text-xl text-deep-700">
           Whether the trust is used as part of the estate planning,
         it is common to find that the trust does not fit the purpose or is incorrect.
           </dd>
@@ -193,7 +193,7 @@
             </div>
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Life Insurance</p>
           </dt>
-          <dd class="mt-2 ml-16 text-base text-sm font-copy text-xl text-deep-700">
+          <dd class="mt-2 ml-16 leading-relaxed text-base text-sm font-copy text-xl text-deep-700">
           Life insurance is often used to pay UK inheritance tax bills as well as family protection.  However, life insurance is often taken out, 
           and so there is no use of an appropriate trust.  
           Therefore, depending on how the life insurance is written (ownership), any payment is added to the individual's estate and taxed.
@@ -242,7 +242,7 @@ Schedule a consultation today.</span>
             <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
             The Right Advice 
             </h2>
-            <p class="mt-4 font-copy text-sm text-deep-700">
+            <p class="mt-4 font-copy leading-relaxed text-sm text-deep-700">
             Getting your planning wrong can be both costly and disastrous for you and your family.  
 There are often many misconceptions that British Expats have with the very complex rules around the estate and inheritance tax. Oftentimes, they believe 
 that because they have lived outside the UK for many years, they are free of UK inheritance tax. 
@@ -279,7 +279,7 @@ This is usually incorrect, and proper planning needs to be considered. UK Domici
             <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
             Retirement Planning
             </h2>
-            <p class="mt-4 text-sm font-copy text-deep-700">
+            <p class="mt-4 leading-relaxed text-sm font-copy text-deep-700">
             Clients have been advised to move their UK pensions abroad. While there could be some benefits of moving a UK pension overseas, this is usually not always the best for the client.  
 We have found clients that have been advised by international advisers to move their UK pension abroad.  
 However, these advisers are often not suitably qualified and experienced to give this advice, which has led to individuals being misadvised.
