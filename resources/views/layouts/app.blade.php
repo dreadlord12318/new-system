@@ -13,6 +13,8 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
+
+
     
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
@@ -75,7 +77,16 @@
       </p>
     </div>
   </div>
+  <!-- Menu Javascript -->
+
 </footer>
     </div>
+
+    <script>
+
+function click(){
+console.log("working");
+}
+    </script>
 </body>
 </html>

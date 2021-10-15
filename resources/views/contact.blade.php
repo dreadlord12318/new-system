@@ -4,28 +4,29 @@
 
 <div class="min-h-screen bg-white">
   <header class="relative z-10">
-    <div class="bg-gray-50">
-      <nav class="relative max-w-7xl mx-auto flex items-center justify-between pt-8 px-6 xl:px-8" aria-label="Global">
-        <div class="flex items-center justify-between w-full lg:w-auto">
+    <div class="bg-gray-50 pt-6 px-4 sm:px-6 lg:px-8">
+      <nav class="relative flex items-center justify-between sm:h-10 md:justify-center" aria-label="Global">
+      <div class="flex items-center flex-1 md:absolute md:inset-y-0 md:left-0">
+        <div class="flex items-center justify-between w-full lg:w-auto m-6">
           <a href="/">
             <span class="sr-only">Workflow</span>
             <img class="h-8 w-auto sm:h-10" src="/images/WCTT-Site-Image-NavLogo.png" alt="">
           </a>
           <div class="-mr-2 flex items-center lg:hidden">
-            <button type="button" class="bg-gray-50 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-grape-500" aria-expanded="false">
+            <button type="button" class="mobile-mune-btn bg-gray-50 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-grape-500" aria-expanded="false">
               <span class="sr-only">Open main menu</span>
               <!-- Heroicon name: outline/menu -->
               <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
               </svg>
             </button>
-            
-          </div>
-          <div class="hidden space-x-10 lg:flex lg:ml-10">
+            </div>
+        </div>
+         
+        </div>
+        <div class="hidden space-x-10 lg:flex lg:ml-10">
               <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
         </div>
-        </div>
-        
         <div class="hidden lg:flex lg:items-center lg:space-x-6">
          
         </div>
@@ -49,7 +50,7 @@
             <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark.svg?color=purple&shade=600" alt="">
           </div>
           <div class="-mr-2">
-            <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-grape-500">
+            <button onclick ="click()" type="button" class="mobile-menu-btn bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-grape-500">
               <span class="sr-only">Close menu</span>
               <!-- Heroicon name: outline/x -->
               <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -59,7 +60,7 @@
           </div>
         </div>
         <div class="pt-5 pb-6">
-          <div class="px-2 space-y-1">
+          <div class="px-2 space-y-1 mobile-menu">
           
 
 <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
@@ -68,6 +69,7 @@
         </div>
       </div>
     </div>
+    
   </header>
 
   <main>
@@ -110,7 +112,10 @@
                 </div>
               </div>
               <div class="sm:col-span-2">
+              <div class="flex justify-between">
                 <label for="company" class="block text-sm font-medium text-deep-700">Company</label>
+                <span id="phone-description" class="text-sm text-gray-500">Optional</span>
+              </div>
                 <div class="mt-1">
                   <input type="text" name="company" id="company" autocomplete="organization" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
                 </div>
@@ -127,20 +132,21 @@
               <div class="sm:col-span-2">
                 <div class="flex justify-between">
                   <label for="how-can-we-help" class="block text-sm font-medium text-gray-700">How can we help you?</label>
+                  <span id="how-can-we-help-description" class="text-sm text-gray-500">Optional</span>
                   <!-- <span id="how-can-we-help-description" class="text-sm text-gray-500">Max. 500 characters</span> -->
                 </div>
                 <div class="mt-1">
                   <textarea id="how-can-we-help" name="how-can-we-help" aria-describedby="how-can-we-help-description" rows="4" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border border-gray-300 rounded-md"></textarea>
                 </div>
               </div>
-              
-           
-              </div>
               <div class="text-right sm:col-span-2">
-                <button type="submit" class="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-grape-600 hover:bg-grape-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-grape-500">
+                <button type="submit" class="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-grape-500">
                   Submit
                 </button>
               </div>
+           
+              </div>
+             
             </form>
           </div>
         </div>
