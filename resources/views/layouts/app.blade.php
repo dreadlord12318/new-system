@@ -16,6 +16,11 @@
     
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
+    <style>
+        ul li::before {
+ display: none;
+}
+    </style>
 </head>
 <body class="bg-gray-100 h-screen antialiased leading-none font-sans">
     <div id="app">
@@ -52,10 +57,19 @@
   <h2 id="footer-heading" class="sr-only">Footer</h2>
   <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
     
-     
+       
+      
           
     <div class="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
-     
+    <div class="flex space-x-6 md:order-2 mr-8">
+    <a href="/terms" class="text-base text-gray-300 hover:text-white">
+                  Terms and Condition
+                </a>
+                <a href="/privacy" class="text-base text-gray-300 hover:text-white">
+                  Privacy Policy
+                </a>
+    </div>
+      
       <p class="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
      ©2021 Westcott Dyson PTE LTD, all rights reserved. 
       </p>
