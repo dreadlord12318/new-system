@@ -65,7 +65,7 @@
     <div class="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between">
     <div class="flex space-x-6 md:order-2 mr-8">
     <a href="/terms" class="text-base text-gray-300 hover:text-white">
-                  Terms and Condition
+                  Terms and Conditions
                 </a>
                 <a href="/privacy" class="text-base text-gray-300 hover:text-white">
                   Privacy Policy
