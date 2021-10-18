@@ -1,5 +1,6 @@
 
 
+
 @import "tailwindcss/base";
 
 @import "tailwindcss/components";
@@ -14,6 +15,10 @@
         font-family: "Valkyrie T3";
         font-weight: normal;
         src: url('/fonts/valkyrie_t3_regular.woff') format('woff');
+    }
+    @font-face {
+        font-family: "PT Sans";
+        src: url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
     }
 }
 

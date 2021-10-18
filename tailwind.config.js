@@ -8,11 +8,12 @@ module.exports = {
       fontFamily:{
         'cursive': ['Diamant'],
         'copy': ['Valkyrie T3'],
+        'ptsans': ['PT Sans'],
       },
       fontSize: {
         'xs': '.75rem',
         'sm': '.875rem',
-        'tiny': '.875rem',
+        'tiny': '72px',
          'base': '1rem',
          'lg': '1.125rem',
          'xl': '1.25rem',
@@ -21,7 +22,7 @@ module.exports = {
         '4xl': '2.25rem',
          '5xl': '3rem',
          '6xl': '4rem',
-        '7xl': '5rem',
+        '7xl': '4.5rem',
       },
       colors:{
         westcott: {
@@ -48,9 +49,9 @@ module.exports = {
           '300': '#39A700',
           '400': '#277400',
           '500': '#164100',
-          '600': '#050E00',
+          '600': '#0D0E06',
           '700': '#000000',
-          '800': '#000000',
+          '800': '#164100',
           '900': '#000000'
         },
         wedgewood: {

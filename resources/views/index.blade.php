@@ -48,18 +48,18 @@
 
       <main class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
         <div class="sm:text-center lg:text-left">
-          <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-            <span class=" xl:inline text-chelsea-500">Wealth Advisory for </span>
-            <span class=" text-chelsea-500 xl:inline">New Realities</span>
+          <h1 class="lg:text-7xl leading-none tracking-tight font-extrabold font-ptsans text-gray-900 sm:text-5xl md:text-6xl">
+            <span class=" xl:inline text-deep-800">Wealth Advisory for </span>
+            <span class=" text-deep-800 xl:inline">New Realities</span>
           </h1>
-          <p class="mt-3 leading-relaxed  font-copy text-base  text-deep-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+          <p class="mt-3 leading-relaxed  font-copy text-lg leading-8  text-deep-600 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
           Westcott Dyson Pte Ltd is a consultancy practice specializing in UK inheritance tax and estate planning for British citizens living in Singapore.  
           <br>
           We also specialize in retirement planning for British citizens and are qualified to a UK pension specialist level to provide advice on their existing UK retirement. 
           </p>
           <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
             <div class="rounded-md shadow">
-              <a href="/contact" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500 md:py-4 md:text-lg md:px-10">
+              <a href="/contact" class="w-full flex font-ptsans items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500 md:py-4 md:text-lg md:px-10">
               Learn More
               </a>
             </div>
@@ -96,7 +96,7 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="lg:text-center">
       <h2 class="text-base text-deep-500 font-semibold tracking-wide uppercase">OUR EXPERTISE</h2>
-      <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+      <p class="mt-2 text-4xl leading-loose font-ptsans font-extrabold tracking-tight text-deep-800 sm:text-4xl">
       It’s a New Era for Wealth Management 
       </p>
       <p class="mt-4 leading-relaxed font-copy text-sm max-w-2xl text-xl text-deep-700 lg:mx-auto">
@@ -181,14 +181,14 @@
 <!-- Start of CTA -->
 <div class="bg-wedgewood-500">
   <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-24 lg:px-8 lg:flex lg:items-center lg:justify-between">
-    <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl">
-      <span class="block text-white text-5xl font-serif">Ready to learn more?<br>
+    <h2 class="text-7xl font-extrabold tracking-tight md:text-4xl">
+      <span class="block text-white font-ptsans text-7xl font-serif">
 Schedule a consultation today.</span>
       <!-- <span class="block text-indigo-600">Start your free trial today.</span> -->
     </h2>
     <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
       <div class="inline-flex rounded-md shadow">
-        <a href="/contact" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500">
+        <a href="/contact" class="inline-flex font-ptsans items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500">
       Start Now
         </a>
       </div>
@@ -216,7 +216,7 @@ Schedule a consultation today.</span>
             <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
             The Right Advice 
             </h2>
-            <p class="mt-4 font-copy leading-relaxed text-sm text-deep-700">
+            <p class="mt-4 font-copy text-xl leading-loose text-deep-600 font-normal">
             Getting your planning wrong can be both costly and disastrous for you and your family.  
 There are often many misconceptions that British Expats have with the very complex rules around the estate and inheritance tax. Oftentimes, they believe 
 that because they have lived outside the UK for many years, they are free of UK inheritance tax. 
@@ -253,7 +253,7 @@ This is usually incorrect, and proper planning needs to be considered. UK Domici
             <h2 class="text-3xl font-extrabold tracking-tight text-deep-700">
             Retirement Planning
             </h2>
-            <p class="mt-4 leading-relaxed text-sm font-copy text-deep-700">
+            <p class="mt-4 font-copy text-xl leading-loose text-deep-600 font-normal">
             Clients have been advised to move their UK pensions abroad. While there could be some benefits of moving a UK pension overseas, this is usually not always the best for the client.  
 We have found clients that have been advised by international advisers to move their UK pension abroad.  
 However, these advisers are often not suitably qualified and experienced to give this advice, which has led to individuals being misadvised.
