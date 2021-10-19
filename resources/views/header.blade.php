@@ -19,13 +19,13 @@
                 </svg>
                 </button>
             </div>
-            <div class="hidden space-x-10 lg:flex lg:ml-4">
+            <div class="hidden md:block md:ml-4 space-x-10 lg:flex lg:ml-4">
               <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900">Contact Us</a>
         </div>
         </div>
         <!-- Menu Mobile -->
         <div x-show="isOpen" class="md:flex items-center">
-            <div class="flex md:hidden flex-col md:flex-row md:ml-6">
+            <div class="flex flex-wrap justify-around content-around md:hidden flex-col md:flex-row md:ml-6">
             <a href="/contact" class="font-medium text-gray-900 hover:text-gray-900 mt-4">Contact Us</a>
             </div>
         </div>
