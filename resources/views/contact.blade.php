@@ -25,11 +25,22 @@
             <p class="mt-4 text-lg leading-relaxed text-deep-700 sm:mt-3">
             Schedule a meeting to discuss your personal and family circumstances. We understand that everyone’s needs are different, and so we tailor individual solutions to fit your specific requirements.
             </p>
-            <form action="#" method="POST" class="mt-9 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+            @if (session('status'))
+            <div class="bg-indigo-900 text-center py-4 lg:px-4">
+              <div class="p-2 bg-indigo-800 items-center text-indigo-100 leading-none lg:rounded-full flex lg:inline-flex" role="alert">
+                      <span class="flex rounded-full bg-indigo-500 uppercase px-2 py-1 text-xs font-bold mr-3">New</span>
+                      <span class="font-semibold mr-2 text-left flex-auto">{{ session('status') }}</span>
+                      <svg class="fill-current opacity-75 h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"/></svg>
+              </div>
+            </div>
+@endif
+                 
+            <form action="/contact" method="POST" class="mt-9 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+          
               <div>
                 <label for="first-name" class="block text-sm font-medium text-deep-700">First name</label>
                 <div class="mt-1">
-                  <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
+                  <input type="text" name="first-name" id="first-name"  autocomplete="given-name" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
                 </div>
               </div>
               <div>
@@ -72,6 +83,7 @@
                   <textarea id="how-can-we-help" name="how-can-we-help" aria-describedby="how-can-we-help-description" rows="4" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border border-gray-300 rounded-md"></textarea>
                 </div>
               </div>
+              @csrf
               <div class="text-right sm:col-span-2">
                 <button type="submit" class="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-chelsea-500 hover:bg-chelsea-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-grape-500">
                   Submit

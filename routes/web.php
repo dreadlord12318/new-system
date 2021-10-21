@@ -17,9 +17,12 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+// -----*Contact Mailing*----- //
+Route::get('/contact',  [\App\Http\Controllers\ContactController::class, 'show']);
+
+Route::post('/contact', [\App\Http\Controllers\ContactController::class, 'mail']);
+
+
 
 Route::get('/privacy', function () {
     return view('privacy');
