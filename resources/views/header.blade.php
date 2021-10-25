@@ -3,7 +3,7 @@
         <div class="flex justify-between items-center">
             <div class="flex items-center">
             <a href="/">
-            <span class="sr-only">Westcott Dyson</span>
+            <span class="sr-only">Westcott Dyson Test Site</span>
             <img class="h-8 w-auto sm:h-10" src="/images/WCTT-Site-Image-NavLogo.png" alt="">
           </a>
             </div>

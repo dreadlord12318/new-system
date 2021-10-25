@@ -31,6 +31,12 @@ Route::get('/privacy', function () {
 Route::get('/terms', function () {
     return view('terms');
 });
+
+Route::get('/account', function (){
+return view('account');
+});
+
+
 Auth::routes();
 
 Route::get('/home', [\App\Http\Controllers\HomeController::class, 'index'])->name('home');

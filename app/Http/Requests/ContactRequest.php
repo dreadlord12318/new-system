@@ -25,9 +25,12 @@ class ContactRequest extends FormRequest
     {
         return [
             //
-            'first-name' => 'required',
-            'last-name' => 'required',
+            'first_name' => 'required',
+            'last_name' => 'required',
             'email' => 'required | email',
+            'company' => 'string',
+            'phone' => 'integer',
+            'message' => 'string',
         ];
     }
 }

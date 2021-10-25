@@ -40,13 +40,13 @@
               <div>
                 <label for="first-name" class="block text-sm font-medium text-deep-700">First name</label>
                 <div class="mt-1">
-                  <input type="text" name="first-name" id="first-name"  autocomplete="given-name" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
+                  <input type="text" name="first_name" id="first_name"  autocomplete="given-name" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
                 </div>
               </div>
               <div>
                 <label for="last-name" class="block text-sm font-medium text-deep-700">Last name</label>
                 <div class="mt-1">
-                  <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
+                  <input type="text" name="last_name" id="last_name" autocomplete="family-name" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border-gray-300 rounded-md">
                 </div>
               </div>
               <div class="sm:col-span-2">
@@ -80,7 +80,7 @@
                   <!-- <span id="how-can-we-help-description" class="text-sm text-gray-500">Max. 500 characters</span> -->
                 </div>
                 <div class="mt-1">
-                  <textarea id="how-can-we-help" name="how-can-we-help" aria-describedby="how-can-we-help-description" rows="4" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border border-gray-300 rounded-md"></textarea>
+                  <textarea id="message" name="message" aria-describedby="how-can-we-help-description" rows="4" class="block w-full shadow-sm sm:text-sm focus:ring-grape-500 focus:border-grape-500 border border-gray-300 rounded-md"></textarea>
                 </div>
               </div>
               @csrf
