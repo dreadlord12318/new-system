@@ -18,7 +18,7 @@ class ContactController extends Controller
     public function mail(ContactRequest $request)
     {
        
-        foreach (['harry@lumikha.co'] as $recipient) {
+        foreach (['brian.dudley@westcottdyson.com'] as $recipient) {
             Mail::to($recipient)->send(new Contact( $request));
         }
 
