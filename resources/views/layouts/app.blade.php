@@ -26,7 +26,6 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
 
-    <title>{{ config('app.name', 'Westcott Dyson') }}</title>
 <link rel="shortcut icon" type="image/jpg" href="/images/WCTT-Site-Image-Favicon.png"/>
 
     <!-- Scripts -->
