@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <title>@yield('title')</title>
+    <meta name="description" content="@yield('description')">
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VBT5EKGCSE"></script>
 <!-- Google Analytics -->

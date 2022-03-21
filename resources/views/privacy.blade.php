@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('title', 'Without current, accurate advice you are subject to bad estate planning with serious implications for your estate and family.')
+
+@section('description', 'Thank you for visiting http://www.westcottdyson.com and, if appropriate, utilizing our Services. We attempt to make our Privacy Policy straightforward with the goal that you are educated about how we utilize your data.')
+
 @section('content')
 
 <div class="min-h-screen bg-white">

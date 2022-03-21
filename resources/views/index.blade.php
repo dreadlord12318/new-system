@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('title', 'Singapore-based Retirement planning firm for expatriate British citizens ')
+
+@section('description', 'Singapore-based Retirement planning firm for expatriate British citizens we specialize in UK inheritance tax, and creative estate planning.')
+
 @section('content')
 <!-- Start of Header -->
 <div class="relative bg-white overflow-hidden">

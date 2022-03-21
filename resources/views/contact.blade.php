@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('title', 'Contact Us to learn more about common misconceptions around UK estate and inheritance tax')
+
+@section('description', 'British expatriates often have misconceptions about the very complex rules around the estate and inheritance tax contact us to learn how we can help.')
+
 @section('content')
 
 <div class="min-h-screen bg-white">

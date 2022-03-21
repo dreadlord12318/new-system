@@ -1,5 +1,10 @@
 @extends('layouts.app')
 
+@section('title', 'We advise clients on the complexities specific to British expatriates living abroad or expecting to return to the UK in the future.')
+
+@section('description', 'Westcott Dyson PTE LTD is an investment and wealth management company helping people plan their retirement and invest wisely')
+
+
 @section('content')
 
 <div class="min-h-screen bg-white">
