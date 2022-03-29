@@ -2,7 +2,7 @@
 
 @section('title', 'Singapore-based Retirement planning firm for expatriate British citizens ')
 
-@section('description', 'Singapore-based Retirement planning firm for expatriate British citizens we specialize in UK inheritance tax, and creative estate planning.')
+@section('description', 'Singapore-based Retirement planning firm for expatriate British citizens we specialise in UK inheritance tax, and creative estate planning.')
 
 @section('content')
 <!-- Start of Header -->
