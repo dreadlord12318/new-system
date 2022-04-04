@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Spatie\Sitemap\SitemapGenerator;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,7 +23,11 @@ Route::get('/contact',  [\App\Http\Controllers\ContactController::class, 'show']
 
 Route::post('/contact', [\App\Http\Controllers\ContactController::class, 'mail']);
 
+Route::get('sitemap', function(){
+SitemapGenerator::create('https://westcottdyson.com/')->writeToFile('sitemap.xml');
 
+return 'sitemap created';
+});
 
 Route::get('/privacy', function () {
     return view('privacy');
