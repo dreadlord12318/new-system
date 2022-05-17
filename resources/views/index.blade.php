@@ -180,7 +180,7 @@
             <p class="ml-16 text-2xl leading-6 font-medium text-deep-500">Life Insurance Wrongly Included in the Estate</p>
           </dt>
           <dd class="mt-2 ml-16 leading-relaxed  font-copy text-xl text-deep-700">
-          People often use life insurance to pay UK inheritance tax liabilities and guarantee family protection. However, planners often neglect the critical step of setting up the insurance policy in trust. 
+          People often use life insurance to pay UK inheritance tax liabilities and guarantee family protection. However, planners often neglect the critical step of setting up the insurance policy <i>in trust</i>. 
           This oversight will result in the benefits being potentially taxed at 40%, adding needless tax and potential long delays in payment.
           </dd>
         </div>

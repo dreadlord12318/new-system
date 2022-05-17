@@ -88,7 +88,8 @@ Services. We attempt to make our Privacy Policy straightforward to educate you a
 
                             <h3 class="font-bold">Use of Your Information</h3>
                             <p>
-                                Our Site may utilise “cookies” to improve User encounters. The client’s internet browser
+                                Our Site may utilise “cookies” to improve User encounters. </p>
+                            <p>The client’s internet browser
                                 places cookies on their hard drive for record-keeping purposes and once in a while to
                                 track data about them. A client may set their internet browser to decline cookies or to
                                 caution you when cookies are being sent. On the off chance that they do as such, take
@@ -134,19 +135,7 @@ Services. We attempt to make our Privacy Policy straightforward to educate you a
                                 after the cancellation of your data, your information might be hidden away from us for
                                 up to 2 years for lawful risk purposes.
                             </p>
-                            <h3 class="font-bold">Accessing, Editing, and Removing Your Information</h3>
-                            <p>
-                                You won’t have the capacity to alter any data submitted through our Site or Service.
-                                Moreover, you will not be able to select our information-gathering practices. In the
-                                event that you need your data to be expelled from our database please get in touch with
-                                us. We will generally endeavour to erase our database of client data at ordinary
-                                intervals, yet we can’t ensure that your data has been or will be erased promptly.
-                                Albeit a few changes may happen instantly, data may, in any case, be put away in an
-                                internet browser’s store. We assume no liability for putting away data in your cache, or
-                                in different gadgets that may store data, and repudiate all risk of such. Moreover,
-                                after the cancellation of your data, your information might be hidden away from us for
-                                up to 2 years for lawful risk purposes.
-                            </p>
+                           
 
                             <h3 class="font-bold">Third-Party Access to Your Information</h3>
                             <p>

@@ -1,8 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'We advise clients on the complexities specific to British expatriates living abroad or expecting to return to the UK in the future.')
+@section('title', 'We advise clients on the complexities specific to British expatriates living abroad or expecting to
+return to the UK in the future.')
 
-@section('description', 'Westcott Dyson PTE LTD is a specialist retirement advisory company helping people all aspects of retirement and planning needs. We also advise on UK inheritance tax planning and succession planning to ensure that you can pass on your family wealth in the most tax-efficient way to you family and chosen beneficiaries.')
+@section('description', 'Westcott Dyson PTE LTD is a specialist retirement advisory company helping people all aspects
+of retirement and planning needs. We also advise on UK inheritance tax planning and succession planning to ensure that
+you can pass on your family wealth in the most tax-efficient way to you family and chosen beneficiaries.')
 
 
 @section('content')
@@ -72,6 +75,8 @@
                             <p>
                                 Westcott Dyson PTE LTD is a financial advisory service that caters to the global
                                 expatriate community.
+                            </p>
+                            <p>
                                 Westcott Dyson PTE LTD offers wealth management, offshore investment, and retirement
                                 planning along with other financial investment vehicles and opportunities. We lead the
                                 investment industry in knowledge and high-level performance,
@@ -93,15 +98,14 @@
                                 investment-related information.
                             </p>
                             <p>To protect our investment knowledge and financial techniques, none of our Confidential
-                                Information must be disclosed.
-                                Therefore, by submitting information to us and using our Service, you agree that you
-                                will not disclose any Confidential Information to any person or entity except as we may
-                                approve in writing. Additionally, you agree to use your best efforts in safeguarding our
-                                Confidential Information. In the event of any violation of this provision of the
-                                Agreement, you agree that a breach will cause irreparable damage to Westcott Dyson PTE
-                                LTD. Therefore, if you breach these provisions, we will be entitled to injunctive
-                                relief without being required to post any bond, thus restraining you from violating or
-                                continuing to violate this Agreement</p>
+                                Information must be disclosed. Therefore, by submitting information to us and using our
+                                Service, you agree that you will not disclose any Confidential Information to any person
+                                or entity except as we may approve in writing. Additionally, you agree to use your best
+                                efforts in safeguarding our Confidential Information. In the event of any violation of
+                                this provision of the Agreement, you agree that a breach will cause irreparable damage
+                                to Westcott Dyson PTE LTD. Therefore, if you breach these provisions, we will be
+                                entitled to injunctive relief without being required to post any bond, thus restraining
+                                you from violating or continuing to violate this Agreement.</p>
                             <h3 class="font-bold">Intellectual Property Rights</h3>
                             <p>
                                 The design of the site, along with Westcott Dyson PTE LTD’s created text, scripts,
@@ -153,10 +157,16 @@
                                     through our services by any third party, and/or</li>
                                 <li>any errors or omissions in any content or for any loss or damage of any kind
                                     incurred as a result of your use of our products made available via the services,
-                                    whether based on warranty, contract,
-                                    tort, or any other legal theory, and whether or not the company is advised of the
-                                    possibility of such damages</li>
+                                    whether based on warranty, contract, tort, or any other legal theory, and whether or
+                                    not the company is advised of the possibility of such damages.</li>
                             </ul>
+
+                            <p>The foregoing limitation of liability shall apply to the fullest extent permitted by law
+                                in the applicable jurisdiction. In any problem with this site or service, you agree that
+                                your sole remedy is to cease using this website. In the event of any problems with our
+                                service, you agree that our liability is limited to the lowest legally allowed amount if
+                                any. Westcott Dyson PTE LTD is not liable to you or third parties for any damage, harm,
+                                injury, or claim that arises from your use of any products purchased from our site.</p>
 
                             <h3 class="font-bold">Representations and Warranties</h3>
                             <p>We make no representations or warranties as to our service’s merchantability or fitness
@@ -222,6 +232,16 @@
                             <p>This Agreement shall be governed by the laws in force in Singapore. The offer and
                                 acceptance of this contract are deemed to have occurred in Singapore.</p>
 
+                            <h3 class="font-bold">Forum of Dispute</h3>
+                            <p>You agree that any dispute arising from or relating to this Agreement will be heard
+                                solely by a court of competent jurisdiction in or nearest to Singapore. If you bring a
+                                dispute in a manner other than in accordance with this section, you agree that we may
+                                move to have it dismissed and that you will be responsible for our reasonable attorneys’
+                                fees, court costs, and disbursements in doing so. You agree that the unsuccessful party
+                                in any dispute arising from or relating to this Agreement will be responsible for the
+                                reimbursement of the successful party’s reasonable attorneys’ fees, court costs, and
+                                disbursements.</p>
+
                             <h3 class="font-bold">Force Majeure</h3>
                             <p>You agree that we are not responsible to you for anything that we may otherwise be
                                 responsible for, if it is the result of events beyond our control, including, but not
@@ -231,13 +251,13 @@
                                 event beyond our control.</p>
 
 
-                            <h3 class="font-bold">Severability</h3>
+                            <!-- <h3 class="font-bold">Severability</h3>
                             <p>In the event that a provision of this Agreement is found to be unlawful, conflicting with
                                 another provision of the Agreement, or otherwise unenforceable, the Agreement will
                                 remain in force as though it had been entered into without that unenforceable provision
                                 being included in it. If two or more provisions of this Agreement are deemed to conflict
                                 with each other’s operation, Westcott Dyson PTE LTD shall have the sole right to elect
-                                which provision remains in force.</p>
+                                which provision remains in force.</p> -->
 
                             <h3 class="font-bold">Severability</h3>
                             <p>In the event that a provision of this Agreement is found to be unlawful, conflicting with
@@ -266,7 +286,7 @@
                             <h3 class="font-bold">Assignment</h3>
                             <p>You may not assign your rights and/or obligations under this Agreement to any other party
                                 without our prior written consent. We may assign our rights and/or obligations under
-                                this Agreement to any other party at our discretion</p>
+                                this Agreement to any other party at our discretion.</p>
 
                             <h3 class="font-bold">Amendments</h3>
                             <p>We may amend this Agreement from time to time. When we amend this Agreement, we will
